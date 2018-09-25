@@ -11,7 +11,7 @@ const campgroundRoutes= require ("./routes/campground");
 const commentRoutes= require ("./routes/comments");
 const methodOverride= require ("method-override");
 const flash         =require ("connect-flash");
-mongoose.connect("mongodb://localhost/yelp_camp_v8");
+mongoose.connect("mongodb://localhost/db_name");
 app.use(bodyParser.urlencoded({extended:true}));
 app.set("view engine", "ejs");
 
