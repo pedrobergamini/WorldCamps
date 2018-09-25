@@ -1,2 +1,3 @@
-WorldCamps is a FullStack application with studying purposes. (It's not a real company)
-Will be updated in the future with more features
+# WorldCamps
+WorldCamps is a FullStack application for studying purposes (it's not a real company). It will be updated with more features in the future.
+
