@@ -1,3 +1,4 @@
+// USE THIS FUNCTION TO SEED DATABASE
 const  Campground= require("./models/campgrounds");
 const Comment= require ("./models/comment");
       
